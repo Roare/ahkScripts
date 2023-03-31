@@ -1,6 +1,8 @@
 # ahkScripts
 AutoHotKey scripts for use in Dark Age of Camelot
 
+These were originally created and made available by Hazefest of the OpenDAoC freeshard community.
+
 ## Example format
 ```
 ;(Name of class)
